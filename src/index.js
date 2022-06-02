@@ -1,4 +1,7 @@
+// import inquirer
 const inquirer = require("inquirer");
+// import fs
+const fs = require("fs");
 const questions = [
   {
     type: "input",
@@ -59,11 +62,12 @@ const init = async () => {
   const answers = await inquirer.prompt(questions);
 
   // display answers
-  //console.log(answers);
+  console.log(answers);
 
   //generate read me template using the answer
-  //generateReadME(answers);
+  generateReadME(answers);
   //create readme
+  fs.writeFileSync("./filtered-users.json", templateReadMe);
 };
 
 const generateReadME = (answers) => {

@@ -57,21 +57,8 @@ const questions = [
   },
 ];
 
-const init = async () => {
-  // get answers for first set of questions
-  const answers = await inquirer.prompt(questions);
-
-  // display answers
-  console.log(answers);
-
-  //generate read me template using the answer
-  generateReadME(answers);
-  //create readme
-  fs.writeFileSync("./filtered-users.json", templateReadMe);
-};
-
-const generateReadME = (answers) => {
-  const templateReadMe = `# Project Title ![MIT](https://img.shields.io/badge/MIT-License-green)
+const createReadME = (answers) => {
+  const templateReadMe = `# ${answers.title} ![MIT](https://img.shields.io/badge/${answers.License})
 
 ## Table of Contents
 
@@ -90,34 +77,51 @@ ${answers.description}
 
 Please follow the instructions below:
 
-````npm install````
+${answers.installation}
+\`\`\`npm install\`\`\`
 
 ## Usage
 
 Please follow the instructions below:
+${answers.usage}
 
 \`\`\`npm run start\`\`\`
 
 ## License
-
+${answers.license}
 MIT License
 
 ## Contributing
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-
+${answers.contributions}
 ## Tests
 
+${answers.test}
 Please follow the instructions below:
 
-\`\`\`npm run test\`\`\`
+${answers.email}
 
 ## Questions
 
-Please contact me on my email: myemail@email.com
+Please contact me on my email:  ${answers.email}
 
-Visit my GitHub profile [here](https://github.com/surajverma2587)
+Visit my GitHub profile [here](https://github.com/${answers.githubUserName})
 `;
+
+  return templateReadMe;
 };
+
+const init = async () => {
+  // get answers for first set of questions
+  const answers = await inquirer.prompt(questions);
+
+  // display answers
+  console.log(answers);
+
+  //generate read me template using the answer
+  const generatedReadMe = createReadME(answers);
+  //create readme
+  fs.writeFileSync("./generatedreadme.md", generatedReadMe);
+};
+
 // 4. start your application
 init();

@@ -1,4 +1,4 @@
-# jj ![MIT](https://img.shields.io/badge/undefined)
+# f ![License]("https://img.shields.io/badge/MIT-license-green")
 
 ## Table of Contents
 
@@ -11,19 +11,19 @@
 - [Questions](#questions)
 
 ## Description
-jj
+ff
 
 ## Installation
 
 Please follow the instructions below:
 
-jjj
+f
 ```npm install```
 
 ## Usage
 
 Please follow the instructions below:
-jj
+f
 
 ```npm run start```
 
@@ -32,16 +32,16 @@ MIT
 MIT License
 
 ## Contributing
-jj
+f
 ## Tests
 
-jj
+f
 Please follow the instructions below:
 
-jj
+f
 
 ## Questions
 
-Please contact me on my email:  jj
+Please contact me on my email:  f
 
-Visit my GitHub profile [here](https://github.com/jj)
+Visit my GitHub profile [here](https://github.com/f)

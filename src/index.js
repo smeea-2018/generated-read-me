@@ -3,7 +3,7 @@ const inquirer = require("inquirer");
 // import fs
 const fs = require("fs");
 
-const questions = require("./questions");
+const { questions } = require("./questions");
 // const questions = [
 //   {
 //     type: "input",
@@ -60,7 +60,7 @@ const questions = require("./questions");
 // ];
 
 const createReadME = (answers) => {
-  const templateReadMe = `# ${answers.title} ![MIT](https://img.shields.io/badge/${answers.License})
+  const templateReadMe = `# ${answers.title} ![License](https://img.shields.io/badge/${answers.license}-license-green)
 
 ## Table of Contents
 

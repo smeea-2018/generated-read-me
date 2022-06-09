@@ -56,4 +56,3 @@ MIT
 ## Contact Me:
 
 <a href = "mailto: smeeaa131@gmail.com"> email </a>
-[mailto]:("mailto: smeeaa131@gmail.com")

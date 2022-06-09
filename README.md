@@ -34,7 +34,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Technologies Used:
 
-Node.js, Inquirer
+JavaScript, Node.js, Inquirer
 
 ## Installation:
 

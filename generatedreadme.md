@@ -1,4 +1,4 @@
-# gg ![MIT](https://img.shields.io/badge/Apache-License-green)
+# lorem ipsum ![MIT](https://img.shields.io/badge/MIT-License-green)
 
 ## Table of Contents
 
@@ -11,37 +11,37 @@
 - [Questions](#questions)
 
 ## Description
-gg
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 
 ## Installation
 
 Please follow the instructions below:
 
-gg
+clone the repository
 ```npm install```
 
 ## Usage
 
 Please follow the instructions below:
-gg
+ddd
 
 ```npm run start```
 
 ## License
-Apache
+MIT
 MIT License
 
 ## Contributing
-g
+  ddd
 ## Tests
 
-g
+dd
 Please follow the instructions below:
 
-g
+
 
 ## Questions
 
-Please contact me on my email:  g
+Please contact me on my email:  
 
-Visit my GitHub profile [here](https://github.com/g)
+Visit my GitHub profile [here](https://github.com/df)

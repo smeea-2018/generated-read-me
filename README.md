@@ -53,6 +53,10 @@ npm run start
 
 MIT
 
+## Mock-up:
+
+<a href = "https://watch.screencastify.com/v/OkT9hfm8NWVanzgtNNvT">Watch Video </a>
+
 ## Contact Me:
 
 <a href = "mailto: smeeaa131@gmail.com"> email </a>

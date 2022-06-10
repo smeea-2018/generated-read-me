@@ -1,4 +1,4 @@
-# lorem ipsum ![MIT](https://img.shields.io/badge/MIT-License-green)
+# Lorem Ipsum ![MIT](https://img.shields.io/badge/Apache-License-green)
 
 ## Table of Contents
 
@@ -17,31 +17,31 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
 Please follow the instructions below:
 
-clone the repository
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 ```npm install```
 
 ## Usage
 
 Please follow the instructions below:
-ddd
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 
 ```npm run start```
 
 ## License
-MIT
+Apache
 MIT License
 
 ## Contributing
-  ddd
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 ## Tests
 
-dd
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
 Please follow the instructions below:
 
-
+LoremIpsum@gmail.com
 
 ## Questions
 
-Please contact me on my email:  
+Please contact me on my email:  LoremIpsum@gmail.com
 
-Visit my GitHub profile [here](https://github.com/df)
+Visit my GitHub profile [here](https://github.com/LoremIpsum)

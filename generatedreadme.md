@@ -1,4 +1,4 @@
-# jj ![MIT](https://img.shields.io/badge/undefined)
+# lorem ipsum ![MIT](https://img.shields.io/badge/Apache-License-green)
 
 ## Table of Contents
 
@@ -11,37 +11,37 @@
 - [Questions](#questions)
 
 ## Description
-jj
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
 ## Installation
 
 Please follow the instructions below:
 
-jjj
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 ```npm install```
 
 ## Usage
 
 Please follow the instructions below:
-jj
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
 ```npm run start```
 
 ## License
-MIT
+Apache
 MIT License
 
 ## Contributing
-jj
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 ## Tests
 
-jj
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 Please follow the instructions below:
 
-jj
+loremipsum@gmail.com
 
 ## Questions
 
-Please contact me on my email:  jj
+Please contact me on my email:  loremipsum@gmail.com
 
-Visit my GitHub profile [here](https://github.com/jj)
+Visit my GitHub profile [here](https://github.com/loremipsum)

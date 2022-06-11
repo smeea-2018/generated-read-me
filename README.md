@@ -40,7 +40,7 @@ JavaScript, Node.js, Inquirer
 
 Clone the repository using SSH keys:
 
-git@github.com:smeea-2018/generated-read-me.git
+git clone git@github.com:smeea-2018/generated-read-me.git
 
 Install the required packages
 
@@ -55,7 +55,9 @@ MIT
 
 ## Mock-up:
 
-<a href = "https://watch.screencastify.com/v/OkT9hfm8NWVanzgtNNvT">Watch Video </a>
+![Mock-up](generatedreadmemockup.gif)
+
+<a href = "https://drive.google.com/file/d/1OTtEETwDWxDdtN6rR5Rkj4VQWbc1a3vW/view">Watch Video </a>
 
 ## Contact Me:
 

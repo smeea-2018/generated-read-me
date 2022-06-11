@@ -1,4 +1,4 @@
-# Lorem Ipsum ![MIT](https://img.shields.io/badge/Apache-License-green)
+# lorem ipsum ![MIT](https://img.shields.io/badge/Apache-License-green)
 
 ## Table of Contents
 
@@ -11,19 +11,19 @@
 - [Questions](#questions)
 
 ## Description
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
 ## Installation
 
 Please follow the instructions below:
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 ```npm install```
 
 ## Usage
 
 Please follow the instructions below:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
 ```npm run start```
 
@@ -32,16 +32,16 @@ Apache
 MIT License
 
 ## Contributing
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 ## Tests
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 Please follow the instructions below:
 
-LoremIpsum@gmail.com
+loremipsum@gmail.com
 
 ## Questions
 
-Please contact me on my email:  LoremIpsum@gmail.com
+Please contact me on my email:  loremipsum@gmail.com
 
-Visit my GitHub profile [here](https://github.com/LoremIpsum)
+Visit my GitHub profile [here](https://github.com/loremipsum)
